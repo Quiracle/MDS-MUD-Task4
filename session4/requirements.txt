@@ -1,0 +1,8 @@
+joblib
+nltk
+scikit-learn
+numpy
+pandas
+lxml
+requests
+tqdm
